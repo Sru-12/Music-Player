@@ -1,0 +1,348 @@
+#body{
+    color: black;
+ }
+ #div{
+   display: flex;
+ }
+ #divMain>a{
+   color: #050506;
+   text-decoration: none;
+   font-size: 25px;
+   margin: 10px;
+ }
+ #divMain>span{
+   margin-right:50px;
+   font-size:25px;
+   margin: 10px;
+   
+   
+   
+  
+ }
+ #divMain>img{
+   margin-left:50px;
+   }
+  #divMain>button{
+    
+    height: 20px;
+    width: 100px;
+    border-radius: 25px;
+    margin-top: 50px;
+    
+ }
+ #subdiv>input{
+   height: 30px;
+   width: 400px;
+   border-radius:20px;
+   margin-left:270px;
+   margin-top: 50px;
+   
+ }
+ #subdiv>span{
+   margin-left: 1050px;
+ }
+  #subdiv>button{
+   height: 20px;
+   width:120px;
+   border-radius:25px;
+   margin-left: 1100px;
+   
+  }
+ 
+ #but1>button{
+  height: 20px;
+   width:100px;
+   border-radius:25px;
+   margin-left:100px;
+   position: absolute;
+   
+ }
+ #but2>button{
+  height: 20px;
+   width:100px;
+   border-radius:25px;
+   margin-left: 220px;
+   position: absolute;
+   
+ }
+  #but3>button{
+  height: 20px;
+   width:100px;
+   border-radius:25px;
+   margin-left: 340px;
+   position: absolute;
+   
+ }
+ #but4>button{
+  height: 20px;
+   width:100px;
+   border-radius:25px;
+   margin-left: 460px;
+   position: absolute;
+   
+ }
+ #but5>button{
+  height: 20px;
+   width:100px;
+   border-radius:25px;
+   margin-left: 580px;
+   position: absolute;
+   
+ }
+ #but6>button{
+  height: 20px;
+   width:100px;
+   border-radius:25px;
+   margin-left: 700px;
+   position: absolute;
+   
+ }
+ #but7>button{
+  height: 20px;
+   width:100px;
+   border-radius:25px;
+   margin-left: 820px;
+   
+   
+ }
+ 
+ 
+ 
+ #subdiv1>h1{
+     margin-left: 200px;
+     display: flex;
+     font-size: 40px;
+     
+ }
+ #subdiv2>h1{
+     margin-left:200px;
+    
+     font-size: 40px;
+ }
+ #subdiv2>button{
+   height: 20px;
+   width:120px;
+   border-radius:25px;
+   margin-left: 1250px;   
+   
+ }
+ #divMain2{
+    display: flex;
+    width: 250px;
+    margin-left:200px;
+    font-size:20px;
+    margin-botton:200px;
+    
+ }
+ #divMain2>div>img{
+   width: 150px;
+   height: 150px;
+   margin: 20px;
+   margin-left:30px;
+   
+ }
+ #divMain3>div>img{
+    width: 100px;
+    height: 100px;
+    
+   
+ }
+ #divMain3>div>p{
+   margin-left: 150px;
+   display: flex;
+  
+   
+ }
+ #divMain3>div>h1{
+   margin-left: 150px;
+   margin-top: -80px;
+  
+   
+  }
+ #divMain4>div>img{
+    width: 100px;
+    height: 100px;
+    
+   } 
+   #divMain3>table{
+    margin-left:200px;
+   
+   } 
+   #divMain4>table{
+     margin-left: 200px;
+   }
+ 
+   #divMain5>table{
+    margin-left: 200px;
+  }
+ 
+   #divMain6>table{
+    margin-left: 200px;
+    
+  }
+ 
+   #divMain7>table{
+    margin-left: 200px;
+    
+    
+  }
+   
+   #divMain8>table{
+      margin-left: 200px;
+      
+  }
+ 
+   #divMain9>table{
+    margin-left: 200px;
+    
+  }
+ 
+  #divMain10>table{
+    margin-left: 200px;
+    
+  }
+ 
+  #divMain11>table{
+    margin-left: 200px;
+    
+  }  
+ 
+  #divMain12>table{
+    margin-left: 200px;
+ 
+  }
+ #sidediv3{
+   position: absolute;
+   
+ }
+ #sidediv4{
+   margin-left: 800px;
+  
+ 
+ } 
+ #subdiv3>h1{
+     margin-left: 200px;
+     display: flex;
+     font-size: 40px;
+     
+ } 
+ #divMain12{
+    display: flex;
+    width: 250px;
+    margin-left:200px;
+    font-size:20px;
+    margin-botton:200px;
+    
+ }  
+  #divMain12>div>img{
+   width: 150px;
+   height: 150px;
+   margin: 20px;
+   margin-left:30px;
+   
+ }
+  #divMain12>div>h2{
+    margin: 20px;
+   }
+   
+    #subdiv4>h2{
+     margin-left: 200px;
+     display: flex;
+     font-size: 40px;
+     
+ } 
+ #subdiv4>p{
+   margin-left: 200px;
+   
+ }
+ #divMain13{
+    display: flex;
+    width: 250px;
+    margin-left:200px;
+    font-size:20px;
+    margin-botton:200px;
+    
+ }  
+  #divMain13>div>img{
+   width: 150px;
+   height: 150px;
+   margin: 20px;
+   margin-left:30px;
+   
+ }
+  #divMain13>div>h3{
+    margin: 40px;
+    font-size:30px;
+ }
+ 
+    #subdiv4>h1{
+     margin-left: 200px;
+     display: flex;
+     font-size: 40px;
+     
+ } 
+ 
+ #divMain14{
+    display: flex;
+    width: 250px;
+    margin-left:200px;
+    font-size:20px;
+    margin-botton:200px;
+    
+ }  
+ 
+  #divMain14>div>img{
+   width: 150px;
+   height: 150px;
+   margin: 20px;
+   margin-left:30px;
+   
+ }
+  #divMain14>div>h3{
+    margin: 20px;
+ }
+    #subdiv5>h1{
+     margin-left: 200px;
+     display: flex;
+     font-size: 40px;
+     
+ } 
+ #subdiv6>h1{
+   margin-left: 200px
+ }
+ #subdiv6>p{
+   margin-left: 200px
+ }
+ #divMain15>div>img{
+   margin-left: 200px;
+ }
+ #subdiv7>h1{
+      margin-left: 200px
+      
+ }
+ #subdiv7>button{
+   margin-left: 200px;
+   height: 90px;
+   width: 200px;
+   position: absolute;
+   
+ }
+ #subdiv8>button{
+   margin-left: 600px;
+   height:100px;
+   width: 200px;
+   
+ }
+ #subdiv9>button{
+   margin-left: 200px;
+   height: 90px;
+   width: 200px;
+   position: absolute;
+   
+ }
+ #subdiv10>button{
+   margin-left: 600px;
+   height: 100px;
+   width: 200px;
+   
+ }
